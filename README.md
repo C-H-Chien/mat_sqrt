@@ -1,14 +1,14 @@
 # hardware implementation of a matrix square root
 square root of a matrix using verilog FPGA
 
-Author     : Chiang-Heng Chien
-Dates      : Sep. 25th, 2018
-Version    : 2.0
+# Author     : Chiang-Heng Chien
+# Dates      : Sep. 25th, 2018
+# Version    : 2.0
 
-MATLAB Files:
+# MATLAB Files:
 a. Software: MATLAB R2018a
 
-Verilog Files:
+# Verilog Files:
 a. Plateform  : Altera DE2i-150 FPGA board
 b. Simulation : Altera Modelsim
 c. Software   : Quartus 13.0sp1
