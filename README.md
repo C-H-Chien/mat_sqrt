@@ -29,3 +29,5 @@ To verify the results performed by the hardware, a MATLAB code is employed, as c
 Two iterative methods are concerned including:
 1. 【Mat_SQRT_Meini.v】: Meini's method, which is based on cyclic reduction algorithm (CR).
 2. 【Mat_SQRT_DB.v】: Denman and Beavers (DB) method, which is based on matrix sign function iteration.
+
+reference can be referred to: B. Iannazzo, "A note on computing the matrix square root," Calcolo, Vol. 40, No. 4, pp. 273-283, 2003.
