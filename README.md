@@ -25,4 +25,5 @@ Two iterative methods are concerned including:
 
 ## References
 `Chien, Chiang-Heng, Chiang-Ju Chien, and Chen-Chien Hsu. "HW/SW co-design and FPGA acceleration of a feature-based visual odometry." In 2019 4th International Conference on Robotics and Automation Engineering (ICRAE), pp. 148-152. IEEE, 2019.`
+
 `B. Iannazzo, "A note on computing the matrix square root," Calcolo, Vol. 40, No. 4, pp. 273-283, 2003.`
